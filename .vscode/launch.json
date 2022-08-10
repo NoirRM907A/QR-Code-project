@@ -5,11 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "type": "pwa-msedge",
             "request": "launch",
             "name": "Launch Edge against localhost",
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
+=======
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\GitHub\\TEST-Projects\\QR-Code-project\\index.html"
+>>>>>>> 1f39385197c0678225d5825ef5fd198fd04e0703
         }
     ]
 }
