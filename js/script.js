@@ -1,5 +1,5 @@
 const wrapper = document.querySelector(".wrapper"),
-qrInput=wrapper.querySelector(".form imput"),
+qrInput=wrapper.querySelector(".form input"),
 qrImg=wrapper.querySelector(".qr-code img"),
 generateBtn=wrapper.querySelector(".form button");
 
